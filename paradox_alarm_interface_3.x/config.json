@@ -1,7 +1,7 @@
 {
   "name": "Paradox Alarm Interface",
   "version": "3.7.1",
-  "image": "paradoxalarminterface/pai",
+  "image": "xjikka/pai",
   "slug": "paradox_alarm_interface_3.x",
   "description": "Supports SP/MG/EVO, Serial and IP150 connections.",
   "uart": true,
