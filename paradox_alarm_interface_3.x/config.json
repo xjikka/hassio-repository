@@ -5,7 +5,7 @@
   "slug": "paradox_alarm_interface_3.x",
   "description": "Supports SP/MG/EVO, Serial and IP150 connections.",
   "uart": true,
-  "url": "https://github.com/ParadoxAlarmInterface/pai",
+  "url": "https://github.com/xjikka/pai",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "application",
   "boot": "auto",
